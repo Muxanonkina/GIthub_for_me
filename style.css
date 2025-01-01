@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #000;
+    flex-direction: row;
+    gap: 10px;
+}
+.template_1{
+    padding-left:10px;
+    border: 5px solid #000;
+    width: 400px;
+}
